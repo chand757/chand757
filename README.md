@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...front-end development
 - 💞️ I’m looking to collaborate on ...backend with node.js
-- 📫 How to reach me ...
+- 📫 How to reach me .....
 
 <!---
 chand757/chand757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
